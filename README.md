@@ -1,10 +1,13 @@
 # Approximate-Multiplier-6x6
 
 - Approximate compressors and multiplier is designed based on the algorithm proposed in [1] 
+- Dadda 6x6 is used as the benchmark multiplier
+
+### Dot tree diagrams
 
   ![](/approx.PNG)
 
-- Dadda 6x6 is used as the benchmark multiplier
+
   ![](/dadda.PNG)
 
 
